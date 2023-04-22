@@ -22,4 +22,6 @@ config github
 đẩy project lên github
     - git init
     - git add .
-    - 
+    - git commit -m 'hoidanit'
+    - git remote add origin https://github.com/cn23579/hoidanit.git
+    - git push origin master
