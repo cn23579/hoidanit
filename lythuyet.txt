@@ -1,0 +1,25 @@
+syntax : cú pháp
+Html Attributes :thuộc tính Html
+ctrl + / : comment(bôi đen)
+thẻ <p> : đoạn văn
+thẻ <div>: tạo thành khối
+thẻ <span>: hiển thị vừa đủ nội dung
+id bắt đầu bằng dấu # --- #firstId { color: yellow}
+class bắt đầu bằng dấu . ---- .first-class { color: yellow}
+height: cao ; width: rộng ; border:đường viền xung quanh - solid:rắn;text-decoration:underline-gạch chân;text-transfrom:uppercase-in hoa
+khai báo link css : <link rel="stylesheet" href="./tên file.css">
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+} bo phan margin
+float: right dịch sang phải
+text-decoration:none bỏ gạch chân ở chữ
+config github
+    - click chuột phải chọn git bash here
+    - git config --global user.name "Kien Cuong"
+    - git config --global user.mail "cn23579@gmail.com"
+    - git config --list
+đẩy project lên github
+    - git init
+    - git add .
+    - 
